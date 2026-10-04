@@ -345,3 +345,7 @@ A longing or yearning; (also) the basic monetary unit of Japan.
 Anhedonia (noun)
 The inability to feel pleasure from activities usually found enjoyable, such as exercise, hobbies, music, sexual activities or social interactions.
 > She felt anhedonia after losing her favorite hobby.
+
+Gestalt (noun)
+A collection of physical, biological, psychological or symbolic elements that creates a whole, unified concept or pattern which is other than the sum of its parts due to the relationships between the parts (of a character, personality, entity, or being). [simplified] An organized whole that is perceived as more than the sum of its parts.
+> The artist's painting showed a gestalt of vibrant colors.
