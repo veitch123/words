@@ -349,3 +349,7 @@ The inability to feel pleasure from activities usually found enjoyable, such as 
 Gestalt (noun)
 A collection of physical, biological, psychological or symbolic elements that creates a whole, unified concept or pattern which is other than the sum of its parts due to the relationships between the parts (of a character, personality, entity, or being). [simplified] An organized whole that is perceived as more than the sum of its parts.
 > The artist's painting showed a gestalt of vibrant colors.
+
+Catenary (adjective)
+Relating to a chain; like a chain.
+> The bridge's cables formed a catenary shape.
