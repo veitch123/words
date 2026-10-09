@@ -357,3 +357,7 @@ Relating to a chain; like a chain.
 Apophenia (noun)
 The perception of or belief in connectedness among unrelated phenomena.
 > She felt an odd sense of apophenia when seeing patterns in the clouds.
+
+Pareidolia (noun)
+The tendency to interpret a vague stimulus as something known to the observer, such as interpreting marks on Mars as canals, seeing shapes in clouds, or hearing hidden messages in music.
+> I saw faces in the shadows due to pareidolia.
