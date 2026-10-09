@@ -353,3 +353,7 @@ A collection of physical, biological, psychological or symbolic elements that cr
 Catenary (adjective)
 Relating to a chain; like a chain.
 > The bridge's cables formed a catenary shape.
+
+Apophenia (noun)
+The perception of or belief in connectedness among unrelated phenomena.
+> She felt an odd sense of apophenia when seeing patterns in the clouds.
